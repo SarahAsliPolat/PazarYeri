@@ -5,5 +5,6 @@ public class Aslan {
         System.out.println("Deneme");
         System.out.println("Aslan");
         System.out.println("Ablanin hatrina");
+        System.out.println("hello git");
     }
 }
