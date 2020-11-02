@@ -6,5 +6,7 @@ public class Aslan {
         System.out.println("Aslan");
         System.out.println("Ablanin hatrina");
         System.out.println("Congratulations brother");
+         System.out.println("Heyyyyyyy");
+        
     }
 }
