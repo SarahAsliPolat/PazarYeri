@@ -6,5 +6,6 @@ public class Aslan {
         System.out.println("Aslan");
         System.out.println("Ablanin hatrina");
         System.out.println("hello git");
+        System.out.println("Heyyyyyyyyy");
     }
 }
