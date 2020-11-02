@@ -1,5 +1,6 @@
 package com.PazarYeri.pages;
 
+import com.PazarYeri.utilities.ConfigurationReader;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -31,8 +32,8 @@ public class Login {
     }
 
     public void login() {
-        String usernameValue = ConfigurationReader.getProperty("storemanager.username");
-        String passwordValue = ConfigurationReader.getProperty("password");
+        String usernameValue = ConfigurationReader.getProperties("storemanager.username");
+        String passwordValue = ConfigurationReader.getProperties("password");
 
         username.sendKeys(usernameValue);
         password.sendKeys(passwordValue, Keys.ENTER);
@@ -40,14 +41,14 @@ public class Login {
 
     public void login(String role) {
         String usernameValue = "";
-        String passwordValue = ConfigurationReader.getProperty("password");
+        String passwordValue = ConfigurationReader.getProperties("password");
 
         if (role.equalsIgnoreCase("sales manager")) {
-            usernameValue = ConfigurationReader.getProperty("salesmanager.username");
+            usernameValue = ConfigurationReader.getProperties("salesmanager.username");
         } else if (role.equalsIgnoreCase("driver")) {
-            usernameValue = ConfigurationReader.getProperty("driver.username");
+            usernameValue = ConfigurationReader.getProperties("driver.username");
         } else {
-            usernameValue = ConfigurationReader.getProperty("storemanager.username");
+            usernameValue = ConfigurationReader.getProperties("storemanager.username");
         }
 
         username.sendKeys(usernameValue);
