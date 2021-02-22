@@ -20,6 +20,7 @@ public class Aisha {
         System.out.println("asli aramiza katildi febden degisiklik");
 
         System.out.println("son degisikliklerim ayse febden21");
+        System.out.println("degsiklikler");
 
 
 
