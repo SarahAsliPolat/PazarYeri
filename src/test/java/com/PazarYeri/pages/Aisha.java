@@ -5,5 +5,7 @@ public class Aisha {
 
         System.out.println("Today is Sunday");
         System.out.println("Hey git");
+
+        System.out.println("hello");
     }
 }
