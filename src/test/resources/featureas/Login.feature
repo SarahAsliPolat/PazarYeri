@@ -6,3 +6,7 @@ Feature: As user I want to be able to login
     When user logs in
     Then user should see home page
 
+
+
+
+
