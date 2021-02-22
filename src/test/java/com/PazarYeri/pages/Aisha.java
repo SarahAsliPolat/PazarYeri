@@ -18,6 +18,8 @@ public class Aisha {
 
         System.out.println("son merge");
 
+        System.out.println("Asli aramiza katildi");
+
 
 
 
