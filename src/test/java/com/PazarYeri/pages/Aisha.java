@@ -12,5 +12,8 @@ public class Aisha {
 
         System.out.println("This code is belongs to feb21Ayse");
         System.out.println("Emine is also writing code");
+
+        System.out.println(2+2 +"= "+4);
+
     }
 }
