@@ -17,8 +17,10 @@ public class Aisha {
         System.out.println("Additions");
 
         System.out.println("son merge");
+        System.out.println("asli aramiza katildi febden degisiklik");
 
-        System.out.println("Asli aramiza katildi");
+        System.out.println("son degisikliklerim ayse febden21");
+
 
 
 
