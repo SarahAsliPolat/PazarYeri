@@ -5,6 +5,9 @@ public class Emine {
         System.out.println("Thank you!!");
         System.out.println("Hi Everyone!");
 
+        System.out.println("1234555");
+        System.out.println("hagkdhkkhh;;");
+
     }
 
 }
