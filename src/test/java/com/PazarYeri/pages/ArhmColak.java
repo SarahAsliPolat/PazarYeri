@@ -7,5 +7,7 @@ public class ArhmColak {
         System.out.println("I did it");
 
         System.out.println("Hi again");
+
+        System.out.println("110k");
     }
 }
