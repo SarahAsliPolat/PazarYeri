@@ -9,6 +9,7 @@ public class Asli {
         System.out.println("oldu");
 
         System.out.println("deneme 123");
+        System.out.println("practice makes perfect");
 
 
     }
