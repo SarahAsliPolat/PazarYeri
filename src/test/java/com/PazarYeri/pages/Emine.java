@@ -11,6 +11,8 @@ public class Emine {
         System.out.println("Herkes burada mi?");
         System.out.println("Hadiiiii!!!");
         System.out.println("abartma!!");
+        System.out.println("34567");
+
 
 
     }
