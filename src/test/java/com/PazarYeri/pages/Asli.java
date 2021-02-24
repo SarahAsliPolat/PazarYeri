@@ -8,6 +8,8 @@ public class Asli {
         System.out.println("git review");
         System.out.println("oldu");
 
+        System.out.println("deneme 123");
+
 
     }
 }
