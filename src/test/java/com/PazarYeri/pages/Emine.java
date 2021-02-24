@@ -9,6 +9,7 @@ public class Emine {
         System.out.println("hagkdhkkhh;;");
 
         System.out.println("Herkes burada mi?");
+        System.out.println("Hadiiiii!!!");
 
 
     }
