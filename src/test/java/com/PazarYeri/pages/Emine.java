@@ -12,6 +12,7 @@ public class Emine {
         System.out.println("Hadiiiii!!!");
         System.out.println("abartma!!");
         System.out.println("34567");
+        System.out.println("is bulayim ilk interview de :) AMINN");
 
 
 
