@@ -8,6 +8,9 @@ public class Emine {
         System.out.println("1234555");
         System.out.println("hagkdhkkhh;;");
 
+        System.out.println("Herkes burada mi?");
+
+
     }
 
 }
